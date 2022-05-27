@@ -13,3 +13,6 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+" 0xb2968a9d91a3D8c8cd12E0d052e406d2A45F4926 - contract address "
+" https://rinkeby.etherscan.io/address/0xb2968a9d91a3D8c8cd12E0d052e406d2A45F4926#code "
